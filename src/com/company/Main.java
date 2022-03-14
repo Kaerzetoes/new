@@ -7,5 +7,6 @@ public class Main {
         System.out.println("hello with changes");
         System.out.println("hello world second time");
         System.out.println("hello world third time");
+        System.out.println("another line");
     }
 }
